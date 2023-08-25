@@ -1,0 +1,268 @@
+@media screen and (max-width: 1672px) {
+  .page6-container {
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+  }
+  .container{
+    padding: 0rem 5rem;
+  }
+  .full-button4 {
+    padding: 0rem 0rem 1rem 0rem;
+    display: flex;
+    justify-content: center;
+  }
+  btn-4 {
+    padding: 1.25rem 12rem 1.25rem 12rem;
+  }
+}
+
+@media (max-width: 1257px) {
+  .background-img {
+    max-width: 100rem;
+  }
+  .text-container {
+    
+    padding: 1rem;
+    max-width: 40rem;
+    text-align: center;
+  }
+  .icons {
+    justify-content: center;
+  }
+
+  .text-content {
+    font-family: sans-serif;
+    font-size: 1.125rem;
+    text-align: center;
+    font-weight: 100;
+    padding: 1rem;
+    line-height: 1.6;
+  }
+ 
+  .text-content3 {
+    display: flex;
+    justify-content: center;
+  }
+  .text-content4 {
+    display: flex;
+    justify-content: center;
+  }
+  .text-content6 {
+    line-height: 02;
+  }
+  .imgs2 {
+    display: flex;
+  }
+  .imgs {
+    display: flex;
+    justify-content: center;
+  }
+  .imgs2-text-cotrol {
+    display: flex;
+    justify-content: center;
+  }
+  .icons {
+    gap: 2rem;
+  }
+
+  */ .image88 {
+    max-width: 100%;
+  }
+}
+@media (max-width: 1256px) {
+  .background-img {
+    display: none;
+  }
+  .btn-2{
+    padding: 1.25rem 6rem 1.25rem 6rem;
+  }
+  .btn-4 {
+    padding: 1.25rem 6rem 1.25rem 6rem;
+  }
+  .btn-3{
+    padding: 1.25rem 6rem 1.25rem 6rem;
+  }
+  .page1-container {
+    justify-content: center;
+  }
+  .btn-background {
+    padding: 1.25rem 6rem 1.25rem 6rem;
+  }
+  .full-button {
+    padding: 1rem 0rem 1rem 0rem;
+    display: flex;
+    justify-content: center;
+  }
+  .reverse {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
+}
+@media (max-width: 733px) {
+  .list-item {
+    flex-direction: column;
+    display: flex;
+    align-content: center;
+    display: none;
+  }
+  
+  .container {
+    margin: 0rem auto 3.75rem auto;
+    padding: 2rem;
+}
+
+  .text-content {
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    width: 100%;
+    font-weight: 100;
+    padding: 0;
+    line-height: 2;
+  }
+  .text-content7 {
+    width: 100%;
+    
+    padding: 2.5rem 0.25rem 2.38rem 0.25rem;
+  }
+  .text-content8 {
+    width: 100%;
+   
+    padding: 2.5rem 0.25rem 2.38rem 0.25rem;
+  }
+  .background-container {
+   
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+  }
+  .login {
+    padding: 1rem 0rem 0rem 0rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .input {
+    padding:1rem 1rem 1rem 3rem;
+  }
+  .btn-signup {
+    padding: 1rem 1rem 1rem 1rem;
+    font-size: 0.8rem;
+  }
+  .text-content5 {
+    font-size: 1.5rem;
+  }
+  .text-content6 {
+    font-size: 0.8rem;
+  }
+}
+@media (max-width: 972px) {
+  .page5-container {
+    background-color: white;
+  }
+  .full-button {
+    
+  }
+  .icon-footer {
+    padding: 0rem 0rem 1.37rem 0rem;
+  }
+  .page7-container {
+    padding: 3.62rem 5.12rem 0rem 5.12rem;
+  }
+  .imgs2-text {
+    padding: 1rem;
+  }
+  .imgs-text {
+    padding: 1rem;
+  }
+  .truck-text,
+  .correct-text,
+  .nature-text,
+  .payment-text {
+    font-size: 0.7rem;
+  }
+  .truck-title,
+  .correct-title,
+  .payment-title,
+  .nature-title {
+    font-size: 0.8rem;
+  }
+  .text-content2 {
+    font-size: 1rem;
+  }
+}
+@media (max-width: 1272px) {
+  .page5-container {
+    padding: 0rem 0rem 0rem 0rem;
+  }
+}
+@media (max-width: 580px) {
+  .login2 {
+    max-width: 30rem;
+    width: 100%;
+  }
+  .icon-footer{
+    display: none;
+  }
+  #input2 {
+    padding: 1rem 1rem 1rem 2rem;
+  }
+  .final-thing {
+    flex-direction: column-reverse;
+    align-items: center;
+    padding: 1rem;
+  }
+  .login2 {
+    flex-direction: column;
+  }
+  .footer-title {
+    display: flex;
+    justify-content: center;
+  }
+  .list-control {
+    justify-content: space-evenly;
+    width: 100%;
+    gap: 5rem;
+  }
+
+  .list-item-Ourcompany p ,.list-item-Categories p,.list-item-menu{
+    text-align: center;
+  }
+}
+@media (max-width: 864px) {
+  .list-control {
+    justify-content: space-evenly;
+    width: 100%;
+    gap: 5rem;
+  }
+  .container{
+    padding: 0rem 2rem;
+  }
+
+
+}
+@media (max-width: 367px) {
+  .icons {
+    padding: 1rem;
+  }
+  .copyright{
+    text-align: center;
+  }
+  .text-content4{
+    text-align: center;
+  }
+  .btn-background {
+    padding: 1.25rem 4rem 1.25rem 4rem;
+  }
+  .text-content {
+    padding: 0rem;
+  }
+  .truck-text {
+  }
+  .container{
+    padding: 0rem 1rem;
+  }
+}
